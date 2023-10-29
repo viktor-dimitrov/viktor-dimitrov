@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=viktor-dimitrov.viktor-dimitrov)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=viktor-dimitrov&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-dimitrov&layout=compact)
+
+
 <!--
 **viktor-dimitrov/viktor-dimitrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
