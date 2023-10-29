@@ -1,5 +1,4 @@
 
-### $\colorbox{dfe1e4}{\ }$ $\colorbox{9be9a8}{\ }$ $\colorbox{40c463}{\ }$ $\colorbox{216e39}{\ }$ 
 
 <h1>
   <a href="https://git.io/typing-svg">
@@ -11,6 +10,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-dimitrov&layout=compact&theme=vue)
 
  <a href="mailto:viktor.g.dimitroff@gmail.com">![viktor.g.dimitroff@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://www.linkedin.com/in/viktor-g-dimitrov/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+
+ ## $\colorbox{green}{{\color{white}{JS}}}$
  
 
 
