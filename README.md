@@ -17,8 +17,8 @@
 
  ![meteonoob](https://github.com/viktor-dimitrov/viktor-dimitrov/blob/main/images/meteonoob_1.jpg?raw=true)
 
-### This is my first independent Front End project that I did after the course "JS Applications".
-#### Libraries and APIs used
+### This is my first independent FrontEnd project that I did after the course "JS Applications".
+#### Libraries and APIs used:
 - "lit-html" for templating.
 - "page.js" for routing.
 - "GeoDB Cities API" for the localization of the client.
@@ -29,6 +29,22 @@
 #
 
 ### VinylReplay
+
+![vinylreplay](https://github.com/viktor-dimitrov/viktor-dimitrov/blob/main/images/vinylreplay_1.jpg?raw=true)
+
+### I made the FrontEnd of this project to pass the "Angular" course exam, but at the same time I practiced my BackEnd skills with Node.js.
+#### Technologies used:
+
+#### FrontEnd:
+  - "Angular 16" & "TypeScript"  for building dynamic and responsive web application.
+  - "HTML" & "CSS"  for structuring and styling the user interface.
+  - "RxJS" for data stream management.
+
+#### BackEnd:
+  - "Express" & "Node.js" for building the server-side of the application.
+  - "Mongoose" for interaction with the database.
+  - "Jsonwebtoken" for generating JSON web tokens for user authentication.
+  - "Bcrypt" for hashing passwords to enhance security.
 
 
 
