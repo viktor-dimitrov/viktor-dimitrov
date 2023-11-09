@@ -11,13 +11,20 @@
 
  <a href="mailto:viktor.g.dimitroff@gmail.com">![viktor.g.dimitroff@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://www.linkedin.com/in/viktor-g-dimitrov/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
 
- # My deployed projects
+ # My deployed projects:
+
+ ### MeteoNoob
 
  ![meteonoob](https://github.com/viktor-dimitrov/viktor-dimitrov/blob/main/images/meteonoob_1.jpg?raw=true)
 
-### This is my first independent front-end project that I did after the JS Applications course. In it I have used "lit-html" for templating and "page.js" for routing. For the localization of the client I have used the "GeoDB Cities API" and for the weather forecast the "OpenWeatherMap API".
-### The project has been added to GitHub Pages and can be accessed at this link ->  https://meteonoob.github.io/
-### You can view the project code here ->  https://github.com/meteonoob/meteonoob.github.io
+#### This is my first independent front-end project that I did after the JS Applications course. In it I have used "lit-html" for templating and "page.js" for routing. For the localization of the client I have used the "GeoDB Cities API" and for the weather forecast the "OpenWeatherMap API".
+- The project has been added to GitHub Pages and can be accessed at this link ->  https://meteonoob.github.io/
+- You can view the project code here ->  https://github.com/meteonoob/meteonoob.github.io
+#
+
+### VinylReplay
+
+
 
 
  
