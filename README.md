@@ -17,7 +17,7 @@
 
  ![meteonoob](https://github.com/viktor-dimitrov/viktor-dimitrov/blob/main/images/meteonoob_1.jpg?raw=true)
 
-### This is my first independent front end project that I did after the JS Applications course.
+### This is my first independent Front End project that I did after the course "JS Applications".
 #### Libraries and APIs used
 - "lit-html" for templating.
 - "page.js" for routing.
@@ -29,6 +29,8 @@
 #
 
 ### VinylReplay
+
+
 
 
 
