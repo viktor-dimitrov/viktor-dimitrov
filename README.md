@@ -19,32 +19,40 @@
 
 ### This is my first independent FrontEnd project that I did after the course "JS Applications".
 #### Libraries and APIs used:
-- "lit-html" for templating.
-- "page.js" for routing.
-- "GeoDB Cities API" for the localization of the client.
-- "OpenWeatherMap API" for the weather forecast.
+- **lit-html** for templating.
+- **page.js** for routing.
+- **GeoDB Cities API** for the localization of the client.
+- **OpenWeatherMap API** for the weather forecast.
 
-- The project has been added to GitHub Pages and can be accessed at this link -->  https://meteonoob.github.io/
-- You can view the project code here -->  https://github.com/meteonoob/meteonoob.github.io/
+**The project has been added to GitHub Pages and can be accessed at this link -->**  *https://meteonoob.github.io/*
+
+**You can view the project code here -->**  *https://github.com/meteonoob/meteonoob.github.io/*
 #
 
 ### VinylReplay
 
 ![vinylreplay](https://github.com/viktor-dimitrov/viktor-dimitrov/blob/main/images/vinylreplay_1.jpg?raw=true)
 
-### I made the FrontEnd of this project to pass the "Angular" course exam, but at the same time I practiced my BackEnd skills with Node.js.
+### I made the FrontEnd of this project to pass the **Angular** course exam, but at the same time I practiced my BackEnd skills with Node.js.
 #### Technologies used:
 
 #### FrontEnd:
-  - "Angular 16" & "TypeScript"  for building dynamic and responsive web application.
-  - "HTML" & "CSS"  for structuring and styling the user interface.
-  - "RxJS" for data stream management.
+**Try Link -->** *https://viktor-dimitrov.github.io/angular-spa/#/catalog* 
+  - **Angular 16** & **TypeScript**  for building dynamic and responsive web application.
+  - **HTML** & **CSS**  for structuring and styling the user interface.
+  - **RxJS** for data stream management.
 
-#### BackEnd:
-  - "Express" & "Node.js" for building the server-side of the application.
-  - "Mongoose" for interaction with the database.
-  - "Jsonwebtoken" for generating JSON web tokens for user authentication.
-  - "Bcrypt" for hashing passwords to enhance security.
+#### BackEnd: 
+  **Repo Link -->**  *https://github.com/viktor-dimitrov/NodeJS-Cyclic-MongoDB*
+  - **express** & **Node.js** for building the server-side of the application.
+  - **mongoose** for interaction with the database.
+  - **jsonwebtoken** for generating JSON web tokens for user authentication.
+  - **bcrypt** for hashing passwords to enhance security.
+  - **cookie-parser** for handling HTTP cookies.
+  - **body-parser**  to parse incoming request bodies in a format such as JSON.
+  - **cors** to enable Cross-Origin Resource Sharing.
+  - **dotenv** for loading environment variables from a .env file into process.env.
+
 
 
 
