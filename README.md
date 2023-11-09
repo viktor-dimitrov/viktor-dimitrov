@@ -24,8 +24,8 @@
 - "GeoDB Cities API" for the localization of the client.
 - "OpenWeatherMap API" for the weather forecast.
 
-#### The project has been added to GitHub Pages and can be accessed at this link ->  https://meteonoob.github.io/
-#### You can view the project code here ->  https://github.com/meteonoob/meteonoob.github.io/
+- The project has been added to GitHub Pages and can be accessed at this link -->  https://meteonoob.github.io/
+- You can view the project code here -->  https://github.com/meteonoob/meteonoob.github.io/
 #
 
 ### VinylReplay
