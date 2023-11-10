@@ -1,9 +1,21 @@
-<style>H1{color:#5fc397;}</style>
-<style>H2{color:#5fc397;font-family:monospace;font-weight:600}</style>
-<style>H3{color:#5fc397;}</style>
-<style>H4{color:#5fc397;}</style>
-<style>p{color:#5fc397;}</style>
-<style>li{color:#5fc397;}</style>
+<style>
+H1{color:#5fc397 !important}
+</style>
+<style>
+H2{color:#5fc397;font-family:monospace;font-weight:600}
+</style>
+<style>
+H3{color:#5fc397;}
+</style>
+<style>
+H4{color:#5fc397;}
+</style>
+<style>
+p{color:#5fc397;}
+</style>
+<style>
+li{color:#5fc397;}
+</style>
 
 <h1>
   <a href="https://git.io/typing-svg">
