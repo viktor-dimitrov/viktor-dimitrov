@@ -14,7 +14,11 @@
 
 
 
- # My deployed projects:
+ <h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=monospace+Code&size=40&pause=100&color=5fc397&width=445&height=63&lines=My+Projects...">
+  </a>
+</h1>
 
  ## MeteoNoob
 
@@ -58,7 +62,7 @@
   - **cors** to enable Cross-Origin Resource Sharing.
   - **dotenv** for loading environment variables from a .env file into process.env.
 
-  **Server is deployed for free with** *https://www.cyclic.sh/*
+  **Server is deployed for free with [Cyclic.sh](https://www.cyclic.sh/)**
 
   **You can view the project code here -->** *https://github.com/viktor-dimitrov/NodeJS-Cyclic-MongoDB*
 
